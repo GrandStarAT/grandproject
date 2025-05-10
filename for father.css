@@ -18,6 +18,7 @@ video{
     top: 117px;
     left: 0;
     bottom: 0;
+    z-index: -1;
 }
 
 body {
