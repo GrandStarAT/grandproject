@@ -9,15 +9,14 @@
 }
 
 video{
-    height: 119vh;
-    width: 100%;
-    align-items: center;
-    display: flex;
-    position: absolute;
-    object-fit: cover;
-    top: 117px;
+   bottom: 0;
+    height: 100vw;
     left: 0;
-    bottom: 0;
+    object-fit: cover;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 100vw;
     z-index: -1;
 }
 
@@ -205,4 +204,6 @@ footer {
     color: #fff;
     padding: 20px;
     text-align: center;
+    position: relative;
+    bottom: -6vw;
 }
