@@ -216,6 +216,13 @@ footer {
 
 
 @media (max-width: 768px) {
+
+  body{
+background: url(https://r2.guns.lol/73bb50ca-35cf-4e7c-be04-94c0623561e1.gif) no-repeat fixed;
+background-size: 100% 100% ;
+
+}
+    
     header h1 {
         font-size: 1.5rem;
     }
